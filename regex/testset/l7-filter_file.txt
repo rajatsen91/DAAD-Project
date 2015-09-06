@@ -1,0 +1,16 @@
+\x4d\x5a(\x90\x03|\x50\x02)\x04
+[FC]WS[\x01-\x09]|FLV\x01\x05\x09
+GIF8(7|9)a
+<html.*><head>
+\xff\xd8
+\x49\x44\x33\x03
+oggs.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?.?\x01vorbis
+%PDF-1\.[0123456]
+\#! ?/(usr/(local/)?)?bin/perl
+\x89PNG\x0d\x0a\x1a\x0a
+%!ps
+rar\x21\x1a\x07
+\xed\xab\xee\xdb.?.?.?.?[1-7]
+\{\\rtf[12]
+ustar
+pk\x03\x04\x14

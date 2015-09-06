@@ -1,0 +1,76 @@
+procedure parse(reg_ex)                           
+    parse a string according to '(', ')' and '|'
+    \\Example : (mno.*xy|abc)|lmn|pqr
+    \\Coverted to : (A|B)C|D   : symbolic string
+    \\ such that : A = "mno.*xy"
+                   B = "abc"
+                   C = "lmn"
+                   D = "pqr"
+    output : symbolic string, symbols and corresponding substring
+end procedure
+
+procedure postfix(string exp)                        //exp is symbolic
+    Insert a '.' whenever there is concatenation
+        Example : (A(B))|C => (A.(B))|C
+    Postfix the modified expression with '.' and '|' as operators
+end procedure
+
+
+procedure marker(char X)                            //X is a symbolic character representing a sub-string 
+    if(string corresponding to X has self-loop)
+        mark X;
+    end if
+end
+
+procedure OR_operation(string_set A, string_set B)                //perform A|B
+	string_set C;
+	FOREACH_SET(A,ita)               //ita iterating over whole set
+	
+		FOREACH_SET(B,itb)          //itb iterating over whole set
+		
+			if((!check_if_marked(ita)) && (!check_if_marked(itb)))
+				C,insert("ita|itb");
+			end if
+			else
+				C.insert(ita);
+				C.insert(itb);
+			end else
+		end for;
+	end for;
+	output : C
+end procedure	
+
+procedure AND_operation(string_set A,string_set B)                //performs the concatenation operation
+	string_set C;
+	string temp;
+	FOREACH_SET(A,ita)       //ita iterating over whole set
+	 
+		FOREACH_SET(B,itb)   //itb iterating over whole set
+			C.insert("itaitb");
+		end for;
+	end for;
+	return C;
+end procedure		
+
+procedure branch_seperation(reg_ex)
+    stack <string_set> stack;
+    string_set operand1;
+    string_set operand2;
+    exp = parse(reg_ex);
+    post_fix(exp);                    
+    for i = 0 : exp.end()
+        if((exp[i] != '|') && (exp[i] != '.'))
+            	push_stack(string_set{exp[i]});
+            end if;
+            else if(exp[i] == '|')
+            	
+            end if;
+            else
+            	operand2 = pop_stack();
+                operand1 = pop_stack();
+                push_stack(AND_operation(operand1,operand2));
+            end if;
+
+    end for
+    final output : stack     //set of seperated strings 
+end procedure

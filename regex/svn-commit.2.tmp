@@ -1,0 +1,7 @@
+All codes added till memory part.
+--This line, and those below, will be ignored--
+
+A    src/hfa_memory.c
+A    src/hfa_memory.h
+A    src/smarf_memory.c
+A    src/smarf_memory.h

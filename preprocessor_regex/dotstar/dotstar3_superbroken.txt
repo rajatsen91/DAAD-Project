@@ -1,0 +1,76 @@
+XOOPS
+onload=
+pluginpath\x5B0\x5D=(https?|ftps?)
+chunked
+user-agent:aim/
+\x2Fpost.php3?
+[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF]
+<style
+setRequestHeader
+rtsp/1.0 200 ok
+\'\'\|\|
+tree\?!children
+ix=
+ href=
+setRequestHeader
+snprtz\x7Cdialno
+<tree 
+<meta name=(\"|')generator(\"|') 
+<a id=(\"|')tracpowered
+\x2Fmodes.php\x3F
+document\x2eall\x28
+5FDC81917DE08A41A6AC(E9B8ECA1EE.8|.98ECB1EEA8E)
+at
+\x26r0\x3d\d*[^\x26\s\d]
+\x2F(inc2?|index).php?
+select
+Subject\x3a
+ldap\x3A\x2F\x2F
+\x3Cchat\x3E
+<script
+rtsp/1.0 200 ok
+\x2Fpost.php3?
+Redmine
+notification\d+\x2E\d+\x2E\d+\x2E\d+
+art\x3Dhttp\x3A\x2F
+expression\x28
+<EMBED
+(%3f|\x3F)
+subdir=(https?|ftps?)
+ix=
+subject\x3A
+\d+\x2E\d+\x2E\d+\x2E\d+\x5E
+JBIG2Decode
+SYS.LT.FINDRICSET\(
+union
+[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF]
+friend_nickname=CIA-Notify-Tezt
+Drupal\.extend\(\{ settings: \{
+ix=
+\'\'\|\|
+c\x82sc
+((""|\x11\x11)|uu)
+(&lt|<)
+R\d+\x2E\d+
+root=
+fileadmin
+\x3Cchat\x3E
+membername
+player
+subject\x3A
+<!\-\- JoomlaWorks \"K2\"
+[\x01-\x08\x0B\x0C\x0E-\x1F\x2D\x80-\xFF]
+union
+<meta name=(\"|')generator(\"|') 
+(up\d+|adserv)
+Startup
+<meta name=(\"|')generator(\"|') XOOPS
+\x2F\x2E\x2E\x2F
+tree\?!children
+<!-- cPanel
+Activity
+Powered by <a href=(\"|')Redmine
+<a id=(\"|')tracpowered
+\x2Fstats.php\x3F
+wp-includes\x2Ftheme\x2Ephp\x3F
+www\x2eurlblaze\x2enet

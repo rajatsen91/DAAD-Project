@@ -1,0 +1,13 @@
+^(\x45\x5f\xd0\xd5|\x45\x5f.*0.60(6|8)W)
+^<stream:stream to="gmail\.com"
+User-Agent: DA [678]\.[0-9]
+User-Agent: FreshDownload/[456](\.[0-9][0-9]?)?
+http/(0\.9|1\.0|1\.1).*(user-agent: itunes)
+http/(0\.9|1\.0|1\.1)[\x09-\x0d ][1-5][0-9][0-9][\x09-\x0d -~]*(content-type: audio)
+http/(0\.9|1\.0|1\.1)[\x09-\x0d ][1-5][0-9][0-9][\x09-\x0d -~]*(x-cache: hit)
+http/(0\.9|1\.0|1\.1)[\x09-\x0d ][1-5][0-9][0-9][\x09-\x0d -~]*(x-cache: miss)
+http/(0\.9|1\.0|1\.1)[\x09-\x0d ][1-5][0-9][0-9][\x09-\x0d -~]*(content-type: video)
+user-agent: nsplayer
+user-agent: quicktime \(qtver=[0-9].[0-9].[0-9];os=[\x09-\x0d -~]+\)\x0d\x0a
+^\x02\x01\x04.+[\xa0-\xa3]\x02[\x01-\x04].?.?.?.?\x02\x01.?\x02\x01.?\x30
+^\x02\x01\x04.+\xa4\x06.+\x40\x04.?.?.?.?\x02\x01.?\x02\x01.?\x43

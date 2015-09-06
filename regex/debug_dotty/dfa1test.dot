@@ -1,0 +1,15 @@
+digraph "DFAC" {
+ 0 [shape=circle,label="0-0"];
+ 1 [shape=circle,label="1-1"];
+ 2 [shape=circle,label="2-2"];
+ 3 [shape=circle,label="3-3"];
+ 4 [shape=doublecircle,label="4-4/61"];
+0 -> 1 [label="T"];
+1 -> 2 [label="O"];
+1 -> 1 [label="T"];
+2 -> 3 [label="R"];
+2 -> 1 [label="T"];
+3 -> 4 [label="49"];
+3 -> 1 [label="T"];
+4 -> 1 [label="T"];
+}

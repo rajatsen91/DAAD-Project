@@ -1,0 +1,113 @@
+procedure parse(string re)                           //re is a regular expression
+    parse a string according to '(', ')' and '|'
+    \\Example : (mno.*xy|abc)|lmn|pqr
+    \\Coverted to : (A|B)C|D   : symbolic string
+    \\ such that : A = "mno.*xy"
+                   B = "abc"
+                   C = "lmn"
+                   D = "pqr"
+    output : symbolic string, symbols and corresponding substring
+end procedure
+
+procedure postfix(string exp)                        //exp is symbolic
+    Insert a '.' whenever there is concatenation
+        Example : (A(B))|C => (A.(B))|C
+    Postfix the modified expression with '.' and '|' as operators
+end procedure
+
+
+procedure marker(char X)                            //X is a symbolic character representing a sub-string 
+    if(string corresponding to X has self-loop)
+        mark X;
+    end if
+end
+
+procedure OR_operation(string_set A, string_set B)                //perform A|B
+
+	string_set C;
+	string temp;
+	FOREACH_SET(A,ita)               //ita iterating over whole set
+	
+		FOREACH_SET(B,itb)          //itb iterating over whole set
+		
+			if((!check_if_marked(ita)) && (!check_if_marked(itb)))
+			
+				temp.clear();
+				temp.append("(");
+				temp.append(ita);						
+				temp.append("|");
+				temp.append(itb);
+				temp.append(")");
+				C.insert(temp);
+			end if
+			else
+			
+				C.insert(ita);
+				C.insert(itb);
+			end else
+		end for;
+	end for;
+	output : C
+end procedure	
+
+procedure and_operation(string_set A,string_set B)                //performs the concatenation operation
+
+	string_set C;
+	string temp;
+	FOREACH_SET(A,ita)       //ita iterating over whole set
+	 
+		FOREACH_SET(B,itb)   //itb iterating over whole set
+		
+			temp.clear();
+			temp.append(ita);
+			temp.append(itb);
+			C.insert(temp);
+		end for
+	end for
+	return C;
+end procedure		
+
+procedure branch_seperation(string exp)
+    stack <string_set> stack;
+    string_set operand1;
+    string_set operand2;
+    string singular;
+    parse(exp);
+    post_fix(exp);                    
+    for i = 0 : exp.end()
+        if((exp[i] != '|') && (exp[i] != '.'))
+            
+                singular.clear();
+                singular.push_back(exp[i]);
+                operand.clear();
+                operand.insert(singular);
+                stack.push_front(operand);
+            end if;
+            else if(exp[i] == '|')
+            
+                operand.clear();
+                operand1.clear();
+                operand = stack.front();
+                stack.pop_front();
+                operand1 = stack.front();
+                stack.pop_front();
+                result.clear();
+                result = or_operation(operand1,operand,bitmap);
+                stack.push_front(result);
+            end if;
+            else
+            
+                operand.clear();
+                operand1.clear();
+                operand = stack.front();
+                stack.pop_front();
+                operand1 = stack.front();
+                stack.pop_front();
+                result.clear();
+                result = and_operation(operand1,operand,bitmap);
+                stack.push_front(result);
+            end if;
+
+    end for
+    final output : stack     //set of seperated strings 
+end procedure

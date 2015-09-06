@@ -1,0 +1,36 @@
+user-agent:aim/.*Host\x3A.*<linksites\/(default|all)\/themes\/
+<meta name=(\"|')generator(\"|') .*http\x3A\x2F\x2Fwww\x2Evisit\x2Dtracker\x2Ebiz\x2F\x3FVFJDSz0.*\x3B\x2C
+tree\?!children.*Powered by <a href=(\"|').*\xff\xff\xff[\xff\xf7][\x36\x37]\x00
+Powered by <a href=(\"|').*filename=.*\x2Ffriendship\x2Femail_thank_you\?
+document\x2eall\x28.*<imgmoodlelogo.*Joomla
+select.*[\x01-\x08\x0B\x0C\x0E-\x1F\x2D\x80-\xFF].*R\d+\x2E\d+
+PC.*Joomla.*Subject\x3A
+Drupal\.extend\(\{ settings: \{.*([\x22\x27]|%2[27]).*common\.js\?plesk
+[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF].*zhangpo.*membername
+select.*www\x2Evisit\x2Dtracker\x2Ebiz.*\x22reaction\x2Etxt\x22
+Transfer-Encoding\x3a\s*chunked.*2\x2E41.*\xff\xff\xff[\xff\xf7][\x36\x37]\x00
+(jQuery\.extend\(Drupal\.settings, \{|Drupal\.extend\(\{ settings: \{).*union.*v2\x2E0
+<!-- header_eof \/\/-->.*Report.*<stylesites\/(default|all)\/(themes|modules)\/
+We\s+got\s+this\s+GREAT\s+Daemon.*art\x3Dhttp\x3A\x2F.*cstrikeCounter-Strike
+\x02[0-4][0-9]:[0-9]+.*Dimac.*\x2Fmodes.php\x3F
+snprtz\x7Cdialno.*<!-- cPanel.*<style
+[\x00\x01]\x00\x09\x00.*<meta name=(\"|')generator(\"|') Plone.*Activity
+Plone.*tree\?!children.*<!\-\- JoomlaWorks \"K2\"
+JBIG2Decode.*TOR1.*www\x2Evisit\x2Dtracker\x2Ebiz
+\n\r?\n.*onload=.*Plone
+((\x01\x10\x01|\)\x10\x01\x01)|0\x10\x01).*(%3f|\x3F).*hl2mpDeathmatch
+filename=.*teamspeak.*document\x2eall\x28
+\x2F(conf|hslist)\.php\?.*Report.*User-Agent\x3a
+friend_nickname=CIA-Notify-Tezt.*<treechildren.*setRequestHeader
+<script.*(%3f|\x3F).*((\x01\x10\x01|\)\x10\x01\x01)|0\x10\x01)
+select.*http\x3A\x2F\x2Fwww\x2Evisit\x2Dtracker\x2Ebiz\x2F\x3FVFJDSz0.*ChildWebGuardian
+Report.*Fictional\s+Daemon.*\x02[0-4][0-9]:[0-9]+
+R\d+\x2E\d+.*http\x3A\x2F\x2Fwww\x2Evisit\x2Dtracker\x2Ebiz\x2F\x3FVFJDSz0.*user-agent:aim/
+\x5cSV\x24\x5c\x3e\x3c.*(%3f|\x3F).*select
+Fictional\s+Daemon.*Root.*Redmine
+<title>.* href=.*linkautomatici\x2Ecom
+stream((\x0d\x0a|\x0a)|\x0d).*cyber@yahoo\x2Ecom.*XOOPS
+(YCLC_E|CYEL).*\x03$.*at
+www\x2eurlblaze\x2enet.*Report.*cyber@yahoo\x2Ecom
+art\x3Dhttp\x3A\x2F.*<img.*\x2Fpost.php3?
+\x2Fmodes.php\x3F.*[\x00\x01]\x00\x09\x00.*User-Agent\x3a

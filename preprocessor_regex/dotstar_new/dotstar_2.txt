@@ -1,0 +1,39 @@
+<img.*Host\x3A.*<EMBED
+PC.*<treechildren.*cyber@yahoo\x2Ecom
+Host\x3A.*nick_name=CIA-Test.*at
+cyber@yahoo\x2Ecom.*Report.*\x22\x2Ecmd
+(%3f|\x3F).*Activity.*<script drupal\.js
+Subject\x3A.*Host\x3A.*linkautomatici\x2Ecom
+cyber@yahoo\x2Ecom.*<meta name=(\"|')generator(\"|') XOOPS.*Keylogger
+script.*Host\x3A.*fileadmin
+Subject\x3A.*snprtz\x7Cdialno.*<meta name=(\"|')generator(\"|') 
+<script.*<stylesites\/(default|all)\/(themes|modules)\/.*[\x26\x3F]inc\x3Dhttp\x3A\x2F
+www\x252efindthewebsiteyouneed\x252ecom.*javascript.*moodlelogo
+User-Agent\x3A.*\/.*nick_name=CIA-Test
+\x25.*common\.js\?plesk.*Logs
+keyword\x3d.*snprtz\x7Cdialno.*www\x2eurlblaze\x2enet
+([\x5C\x2F]\x2E\x2E|\x2E\x2E[\x5C\x2F]).*lifeisfine\x2Eorg.*Powered by <a href=(\"|')
+<imgmoodlelogo.*<EMBED.*from
+<treechildren.*Drupal\.extend\(\{ settings: \{.*ldap\x3A\x2F\x2F
+<script.*at.*v2\x2E0
+\x25.*Host\x3A.*\x3C\x3F
+ src=(\"|').*friend_nickname=CIA-Notify-Tezt.*snprtz\x7Cdialno
+\x25.*script.*<img
+<EMBED.*\x7c\d\x7c\d\x7c\x7c.*Drupal\.extend\(\{ settings: \{
+(View|RowFolder)=.*sites\/(default|all)\/(themes|modules)\/.*from
+\/forum\.php.*url\x3d.*from
+Amitis\s+1\x2E3.*Box.*Startup
+([\x5C\x2F]\x2E\x2E|\x2E\x2E[\x5C\x2F]).*User-Agent\x3a\x20.*drupal\.js
+fileadmin.*<img.*www\x2Eotherchance\x2Ecom
+\x5cSV\x24\x5c\x3e\x3c.*<EMBED.*PLUGINSPAGE\s*\=
+[\x26\x3F]inc\x3Dhttp\x3A\x2F.*Subject\x3a.*PC
+<\s*script.*(View|RowFolder)=.*notification\d+\x2E\d+\x2E\d+\x2E\d+
+\/oaboard.*Subject\x3a.*href\s*\=
+JMail.*v2\x2E0.*ver\x3A\s+Legends\s2\x2e1
+expression\x28.*\x7c\d\x7c\d\x7c.*Powered by <a href=(\"|')Redmine
+WinHttp\x2eWinHttpRequest.*drupal\.js.*PLUGINSPAGE\s*\=
+Powered by <a href=(\"|').*(%3f|\x3F).*<style
+filename.*(jQuery\.extend\(Drupal\.settings, \{|Drupal\.extend\(\{ settings: \{).*Server\s+information
+%.*tree\?!children.*<meta name=(\"|')generator(\"|') 
+<script.*ping\x7c\d+\x7c.*Drupal\.extend\(\{ settings: \{
+\x7c\d\x7c\d\x7c\x7c.*Activity.*<link

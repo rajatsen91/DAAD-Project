@@ -1,0 +1,37 @@
+WinHttp\x2eWinHttpRequest.*PC.*Report.*\n
+\/.*Plone.*script.*www\x2Epeer2mail\x2Ecom
+cyber@yahoo\x2Ecom.*PLUGINSPAGE\s*\=.*Scaner.*<EMBED
+script.*www\x2Eotherchance\x2Ecom.*sites\/(default|all)\/(themes|modules)\/.*\x3C\x3F
+(%3f|\x3F).*<linksites\/(default|all)\/themes\/.*\x22reaction\x2Etxt\x22.*Server\s+information
+<treechildren.*by.*lifeisfine\x2Eorg.*(%3f|\x3F)
+default.idq.*\x0D\x0A\d+\x0D\x0A.*dialup\x5fvpn\x40hermangroup\x2Eorg.*(jQuery\.extend\(Drupal\.settings, \{|Drupal\.extend\(\{ settings: \{)
+((((mailto|telnet)|news)|nntp)|snews)\x3A.*\x3C\x3F.*TYPO3.*Dimac
+drupal\.js.*www\x2eurlblaze\x2enet.*<\/title>.*var moodleConfigFn = function\(me\)
+<link.*<title>.*drupal\.js.*\x22\x2Ecmd
+Amitis\s+1\x2E3.*Host\x3A.*\x2Ffriendship\x2Femail_thank_you\?.*<imgmoodlelogo
+Redmine.*friend_nickname=CIA-Notify-Tezt.*<script drupal\.js.*Logs
+<!-- header_eof \/\/-->.*Report.*(jQuery\.extend\(Drupal\.settings, \{|Drupal\.extend\(\{ settings: \{).*www\x2eurlblaze\x2enet
+notification\d+\x2E\d+\x2E\d+\x2E\d+.*(%3f|\x3F).*Scaner.*Host\x3A
+%.*\x5cSV\x24\x5c\x3e\x3c.*sites\/(default|all)\/themes\/.*Logs
+\.(cmd|bat).*(&lt|<).*from.*User-Agent\x3a\x20
+Scaner.*<\s*script.*\x7c\d\x7c\d\x7c\x7c.*<meta name=(\"|')generator(\"|') 
+<treechildren.*PC.*Logs.*<meta name=(\"|')generator(\"|') Plone
+<a id=(\"|')tracpowered.*\x22\x2Ecmd.*www\x2Epeer2mail\x2Ecom.*Joomla
+var moodleConfigFn = function\(me\).*ping\x7c\d+\x7c.*<meta name=(\"|')generator(\"|') XOOPS.*v2\x2E0
+snprtz\x7Cdialno.*cyber@yahoo\x2Ecom.*fileadmin.*www\x2Eotherchance\x2Ecom
+<script drupal\.js.*dialupvpn\x5fpwd.*(%3f|\x3F).*kit
+XOOPS.*www\x252efindthewebsiteyouneed\x252ecom.*href\s*\=.*filename
+mail=.*<link.*\x22\x2Ebat.*<\s*script
+cyber@yahoo\x2Ecom.*www\x2Epeer2mail\x2Ecom.*href\s*\=.*\x7c\d\x7c\d\x7c\x7c
+nick_name=CIA-Test.*sites\/(default|all)\/themes\/.*Box.*at
+href\s*\=.*tree\?!children.*<script.*Startup
+\x0D\x0A\d+\x0D\x0A.*index\.php\?.*<linksites\/(default|all)\/themes\/.*expression\x28
+dialup\x5fvpn\x40hermangroup\x2Eorg.*<linksites\/(default|all)\/themes\/.*from.*ChildWebGuardian
+<\/title>.*Redmine.*<linksites\/(default|all)\/themes\/.*<meta name=(\"|')generator(\"|') TYPO3
+ping\x7c\d+\x7c.*Powered by <a href=(\"|').*[\x26\x3F]inc\x3Dhttp\x3A\x2F.*<meta name=(\"|')description(\"|')Redmine(\"|')
+default.idq.*((((mailto|telnet)|news)|nntp)|snews)\x3A.*PC.*name\x3d
+Scaner.*Report.*script.*from
+WinHttp\x2eWinHttpRequest.*www\x252efindthewebsiteyouneed\x252ecom.*Subject\x3a.*fileadmin
+(%3f|\x3F).*\x25.*Host\x3A.*ChildWebGuardian
+<linksites\/(default|all)\/themes\/.*\x25.* href=.*at
+User-Agent\x3A.*Redmine.*snprtz\x7Cdialno.*<treechildren

@@ -1,0 +1,22 @@
+<tree .*tree(\?!children).*<treechildren.*<treechildren
+^From\x3A[^\r\n]*Amitis\s+1\x2E3.*Subject\x3A[^\r\n]*Server\s+information
+^from\x3A[^\r\n]*cyber@yahoo\x2Ecom.*subject\x3A[^\r\n]*notification\d+\x2E\d+\x2E\d+\x2E\d+
+ldap\x3A\x2F\x2F[^\x0A]*(%3f|\x3F)[^\x0A]*(%3f|\x3F)[^\x0A]*(%3f|\x3F)[^\x0A]*(%3f|\x3F)
+^\x3c\x41\x20.*\x3b\x5c\x5c.*\x5cSV\x24\x5c\x3e\x3c
+\x2Ffriendship\x2Femail_thank_you\?[^\r\n]*nick_name=CIA-Test[^\r\n]*friend_nickname=CIA-Notify-Tezt
+^X-Mailer\x3a[^\r\n]*JMail[^\r\n]*by[^\r\n]*Dimac
+^X-Mailer\x3a[^\r\n]*PC[^\r\n]*Black[^\r\n]*Box
+^Subject\x3a[^\r\n]*Activity[^\r\n]*Keylogger[^\r\n]*Logs
+^Referer\x3a[^\r\n]*www\x2eurlblaze\x2enet.*Host\x3A[^\r\n]*www\x2Epeer2mail\x2Ecom
+^From\x3a[^\r\n]*dialup\x5fvpn\x40hermangroup\x2Eorg.*Subject\x3a[^\r\n]*dialupvpn\x5fpwd.*name\x3d[^\r\n]*\x22reaction\x2Etxt\x22
+^Server\x3a[^\r\n]*Root[^\r\n]*kit[^\r\n]*Scaner
+^User-Agent\x3A[^\r\n]*snprtz\x7Cdialno.*Host\x3A[^\r\n]*linkautomatici\x2Ecom
+^User-Agent\x3A[^\r\n]*xpsp2-\d+.*Host\x3A[^\r\n]*lifeisfine\x2Eorg
+^Subject\x3a[^\r\n]*Report[^\r\n]*from[^\r\n]*ChildWebGuardian
+^SSKC[^\r\n]*v2\x2E0[^\r\n]*Startup[^\r\n]*at
+<title>[^>]*(&lt|<).*expression\x28.*<\/title>
+<EMBED[^\x3E]*PLUGINSPAGE\s*\=[^\x3E]*javascript
+\x2Fpost.php3?[^\r\n]*topic_id=[^\r\n\x26]*union[^\r\n\x26]*select
+\x2Fpost.php3?[^\r\n]*root=[^\r\n\x26]*union[^\r\n\x26]*select
+\x2Fpost.php3?[^\r\n]*topic_id=[^\r\n\x26]*union[^\r\n\x26]*select
+\x2Fpost.php3?[^\r\n]*root=[^\r\n\x26]*union[^\r\n\x26]*select

@@ -1,0 +1,25 @@
+^\x10here=
+^[ !-~]+\x0d\x0a$
+^\x06\xec\x01
+^\x1b\xd7\x3b\x48[\x01\x02]\x01?\x01
+rtsp/1.0 200 ok
+^(((((invite|register)|cancel)|message)|subscribe)|notify) sip[\x09-\x0d -~]*sip/[0-2]\.[0-9]
+\xffsmb[\x72\x25]
+^220[\x09-\x0d -~]* (e?smtp|simple mail)
+^ssh-[12]\.[0-9]
+^\xf4\xbe\x03.*teamspeak
+^\xff[\xfb-\xfe].\xff[\xfb-\xfe].\xff[\xfb-\xfe]
+(\x03\x9a\x89\x22\x31\x31\x31\.\x30\x30\x20\x42\x65\x74\x61\x20|\xe2\x3c\x69\x1e\x1c\xe9)
+^(\x01|\x02)[ -~]*((netascii|octet)|mail)
+^(GET /docookie\.php\?uname=|\xfd\xfd\xfd\xfd\x30\x30\x30\x30\x30)
+TOR1.*<identity>
+^(((longaccoun|qsver2auth)|\x35[57]\x30)|\+\x10\*)
+^[\x01\x02][\x01- ]\x06.*c\x82sc
+^((\$mynick |\$lock )|\$key )
+^\xff\xffchallenge
+^([a-z][a-z0-9\-_]+|login: [\x09-\x0d -~]* name: [\x09-\x0d -~]* Directory:)
+^\x01[\x08\x09][\x03\x04]
+<stream:stream[\x09-\x0d ][ -~]*[\x09-\x0d ]xmlns=['"]jabber
+membername.*session.*player
+^\xff\xff\xff\xffgetstatus\x0a
+^(ver [ -~]*msnftp\x0d\x0aver msnftp\x0d\x0ausr|method msnmsgr:)

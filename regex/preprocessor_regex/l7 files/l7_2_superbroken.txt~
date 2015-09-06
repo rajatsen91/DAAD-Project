@@ -1,0 +1,34 @@
+^\x01\x01\x05\x0a
+user-agent:aim/
+^ajprot\x0d\x0a
+(YCLC_E|CYEL)
+^\x01\x11\x10\|\xf8\x02\x10\x40\x06
+^\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff..?\x01[\x03\x04]
+^[a-z][a-z0-9]+@[1-9][0-9]+$
+^((((((\x13bittorrent protocol|azver\x01$)|get /scrape\?info_hash=get /announce\?info_hash=)|get /client/bitcomet/)|GET /data\?fid=)|d1:ad2:id20:)|\x08'7P\)[RP])
+^CTPv1\.[123] Kamusta
+\x0d\x0a$
+\x02[0-4][0-9]:[0-9]+
+\x03$
+^\x01\xf4\x01\xf4
+\x32\x26\x85\x92\x58
+^\xff\xff\xff\xff
+cstrikeCounter-Strike
+^BEGIN ((AUTH|VERIFICATION)|GSSAPI) REQUEST\x0a
+^\xff\xff\xff\xff
+dodDay of Defeat
+^(((longaccoun|qsver2auth)|\x35[57]\x30)|\+\x10\*)
+^[\x01\x02][\x01- ]\x06
+c\x82sc
+^((\$mynick |\$lock )|\$key )
+^\xff\xffchallenge
+^(((get (((((/.download/[ -~]*|/.supernode[ -~])|/.status[ -~])|/.network[ -~]*)|/.files)|/.hash=[0-9a-f]*/[ -~]*) http/1.1|user-agent: kazaa)|x-kazaa((((((-username|-network)|-ip)|-supernodeip)|-xferid)|-xferuid)|tag))|^give [0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]?[0-9]?[0-9]?)
+^([a-z][a-z0-9\-_]+|login: [\x09-\x0d -~]* name: [\x09-\x0d -~]* Directory:)
+^\x01[\x08\x09][\x03\x04]
+^220[\x09-\x0d -~]*ftp
+^gkrellm [23].[0-9].[0-9]\x0a$
+gnuclear connect/[\x09-\x0d -~]*user-agent: gnucleus [\x09-\x0d -~]*lan:
+(((<peerplat>|^get /getfilebyhash\.cgi\?)|^get /queue_register\.cgi\?)|^get /getupdowninfo\.cgi\?)
+^[\x04\x05]\x0c.i\x01
+^\xff\xff\xff\xff
+hl2mpDeathmatch

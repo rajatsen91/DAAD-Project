@@ -1,0 +1,37 @@
+terServer.* src=(\"|')
+\x5cSV\x24\x5c\x3e\x3c.*chunked
+www\x2Evisit\x2Dtracker\x2Ebiz.*(YCLC_E|CYEL)
+union.*pluginpath\x5B0\x5D=(https?|ftps?)
+Drupal\.extend\(\{ settings: \{.*<meta name=(\"|')generator(\"|') 
+chunked.*<!-- cPanel
+topic_id=.*Startup
+Powered by <a href=(\"|').*[\x00\x01]\x00\x09\x00
+document\x2eall\x28.*union
+<meta name=(\"|')generator(\"|') Joomla.*<meta name=(\"|')generator(\"|') 
+<treechildren.*document\x2eall\x28
+union.*topic_id=
+xpsp2-\d+.*<imgmoodlelogo
+\x3Cchat\x3E.*livestock_id
+Subject\x3a.*select
+R\d+\x2E\d+.*\x2Fpost.php3?
+union.*[\x01-\x08\x0B\x0C\x0E-\x1F\x2D\x80-\xFF]
+\x3C\x2Fchat\x3E.*\x2F\x2E\x2E\x2F
+fileadmin.*\n\r?\n
+ src=(\"|').*cyber@yahoo\x2Ecom
+dodDay of Defeat.*SUBJECT
+[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF].*topic_id=
+ix=.*root=
+JBIG2Decode.*<imgmoodlelogo
+((\x01\x10\x01|\)\x10\x01\x01)|0\x10\x01).*<script drupal\.js
+gnuclear connect/[\x09-\x0d -~]*user-agent: gnucleus [\x09-\x0d -~]*lan:.*\x2F\x2E\x2E\x2F
+\x2eaom[\x22\x27\s].*PLUGINSPAGE\s*\=
+<meta name=(\"|')generator(\"|') TYPO3.*union
+http\x3A\x2F\x2Fwww\x2Evisit\x2Dtracker\x2Ebiz\x2F\x3FVFJDSz0.*snprtz\x7Cdialno
+ href=.*[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF]
+<EMBED.*snprtz\x7Cdialno
+setRequestHeader.*filename=
+document\x2eall\x28.*<script 
+<meta name=(\"|')generator(\"|') .*(YCLC_E|CYEL)
+sites\/(default|all)\/themes\/.*<meta name=(\"|')generator(\"|') TYPO3
+c\x82sc.*\x2Fstats.php\x3F
+setRequestHeader.*\x02[0-4][0-9]:[0-9]+

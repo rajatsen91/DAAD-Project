@@ -1,0 +1,26 @@
+<tree .*tree(\?!children).*<treechildren.*<treechildren
+^From\x3A[^\r\n]*Amitis\s+1\x2E3.*Subject\x3A[^\r\n]*Server\s+information
+^from\x3A[^\r\n]*cyber@yahoo\x2Ecom.*subject\x3A[^\r\n]*notification\d+\x2E\d+\x2E\d+\x2E\d+
+ldap\x3A\x2F\x2F[^\x0A]*(%3f|\x3F)[^\x0A]*(%3f|\x3F)[^\x0A]*(%3f|\x3F)[^\x0A]*(%3f|\x3F)
+^\x3c\x41\x20.*\x3b\x5c\x5c.*\x5cSV\x24\x5c\x3e\x3c
+\x2Ffriendship\x2Femail_thank_you\?[^\r\n]*nick_name=CIA-Test[^\r\n]*friend_nickname=CIA-Notify-Tezt
+\x7BIP\x7D[^\x7D\r\n]*\x7BOS\x7D[^\x7D\r\n]*\x7BUptime\x7D[^\x7D\r\n]*\x7BTrojan\x7D[^\x7D\r\r\n]*\x7BUser\x7D
+^From\x3A[^\r\n]*IP\s+Contact.*X-Mailer\x3A[^\r\n]*EBT\s+Reporter.*Subject\x3A[^\r\n]*Vic\s+Ip\s+Addy
+^X-Mailer\x3a[^\r\n]*JMail[^\r\n]*by[^\r\n]*Dimac
+^X-Mailer\x3a[^\r\n]*PC[^\r\n]*Black[^\r\n]*Box
+^Subject\x3a[^\r\n]*Activity[^\r\n]*Keylogger[^\r\n]*Logs
+^0[^\r\n]*Days[^\r\n]*Hours[^\r\n]*Minutes[^\r\n]*Seconds\-[^\r\n]*\|\d+\-[^\r\n]*\-\|
+^Referer\x3a[^\r\n]*www\x2eurlblaze\x2enet.*Host\x3A[^\r\n]*www\x2Epeer2mail\x2Ecom
+^From\x3a[^\r\n]*dialup\x5fvpn\x40hermangroup\x2Eorg.*Subject\x3a[^\r\n]*dialupvpn\x5fpwd.*name\x3d[^\r\n]*\x22reaction\x2Etxt\x22
+^Conexion\x7c[^\r\n]*\x7c[^\r\n]*\x7c[^\r\n]*\x7c
+^Server\x3a[^\r\n]*Root[^\r\n]*kit[^\r\n]*Scaner
+^User-Agent\x3A[^\r\n]*snprtz\x7Cdialno.*Host\x3A[^\r\n]*linkautomatici\x2Ecom
+^User-Agent\x3A[^\r\n]*xpsp2-\d+.*Host\x3A[^\r\n]*lifeisfine\x2Eorg
+^Subject\x3a[^\r\n]*Report[^\r\n]*from[^\r\n]*ChildWebGuardian
+^SSKC[^\r\n]*v2\x2E0[^\r\n]*Startup[^\r\n]*at
+<body[^>]*position[^>]*inherit[^>]*-moz-column-(count|width)[^>]*documentElement\.style\.height[^>]*
+<\x21DOCTYPE\s+[^>]*SYSTEM[^>]*>.*\x2EparseError
+<title>[^>]*(&lt|<).*expression\x28.*<\/title>
+<EMBED[^\x3E]*PLUGINSPAGE\s*\=[^\x3E]*javascript
+<INPUT[^>]+type\s*=\s*[\x22\x27]?file[\x22\x27]?[^>]+OnKey(Down|Up|Press)\s*=[^>]*>.*<INPUT[^>]+type\s*=\s*[\x22\x27]?text[\x22\x27]?[^>]+OnKey(Down|Up|Press)[^>]+>
+

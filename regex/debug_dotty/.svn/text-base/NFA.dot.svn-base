@@ -1,0 +1,16 @@
+digraph "NFA" {
+ N0 [shape=circle,label="0--1",color="black"];
+N0 -> N0 [label="0-255",color="black"];
+N0 -> N1 [label="a",color="black"];
+ N1 [shape=circle,label="1--1",color="black"];
+N1 -> N2 [label="b",color="black"];
+ N2 [shape=circle,label="2--1",color="black"];
+N2 -> N3 [label="c",color="black"];
+ N3 [shape=circle,label="3--1",color="black"];
+N3 -> N4 [label="d",color="black"];
+ N4 [shape=circle,label="4--1",color="black"];
+N4 -> N5 [label="k",color="black"];
+ N5 [shape=circle,label="5--1",color="black"];
+N5 -> N6 [label="s",color="black"];
+ N6 [shape=doublecircle,label="6--1/1,2",color="black"];
+}

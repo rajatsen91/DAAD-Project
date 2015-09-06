@@ -1,0 +1,164 @@
+setting :
+{
+
+#define SPECIAL_MIN_DEPTH 4     // minimum NFA depth of a special state
+#define MAX_TX 250		        // maximum number of outgoing transitions allowed in a expanded NFA state 
+#define MAX_HEAD_SIZE 5      // maximum number of states in the head automaton before starting to create tails
+//#define TAIL_DFAS 		    // do we want to build tail-DFA and to have at most one activation of each tail?
+
+
+/* DFA contruction */
+#define MAX_DFA_SIZE 100000     //max size of a DFA
+
+}
+
+
+
+
+********************************BRO2.0.re*******************************************************
+HFA : 
+No of NFA states :  628
+No of states in head-dfa : 701
+No of states in tail-dfa : 243
+No of tails : 8
+No of states in tail NFA : 194
+Border size : 19
+
+Head memory(in bytes) :29079   
+Tail memory : 19681
+
+Our implementation :
+No of states in dfa : 648
+
+No of SAS : 45
+No of FAS : 19
+Max bits to be turned on by a SAS : 5
+
+DFA memory :     26635   
+Link table memory : 174
+Char table memory : 328
+
+********************************snort_1.re*******************************************************
+HFA : 
+No of NFA states         : 327
+No of states in head-dfa : 253
+No of states in tail-dfa : 137
+No of tails : 17
+Border size : 19
+tail-nfa size : 123
+
+Head memory(in bytes) : 22402
+Tail memory : 15325
+
+Our implementation :
+No of states in dfa : 633
+No of NFA states :    322
+
+No of SAS : 340
+No of FAS : 45
+Max bits to be turned on by a SAS : 9
+
+DFA memory :     173315 
+Link table memory : 643
+Char table memory : 624
+
+********************************snort_2.re*******************************************************
+HFA : 
+No of NFA states         : 334
+No of states in head-dfa : 380
+No of states in tail-dfa : 356
+No of tails : 17
+Border size : 38
+tail-nfa size : 333
+
+Head memory(in bytes) : 208318  
+Tail memory : 133468
+
+Our implementation :
+No of states in dfa : 803
+No of NFA states :    447
+
+No of SAS : 87
+No of FAS : 67
+Max bits to be turned on by a SAS : 3
+
+DFA memory :     440169  
+Link table memory : 404
+Char table memroy : 2280
+
+
+********************************snort_3***************************************************
+HFA : 
+No of NFA states         : 606
+No of states in head-dfa : 165
+No of states in tail-dfa : 1178
+No of tails : 14
+Border size : 19
+tail-nfa size : 506
+
+Head memory(in bytes) : 20848  
+Tail memory : 551288
+
+Our implementation :
+No of states in dfa : 535
+No of NFA states :    656
+
+No of SAS : 70
+No of FAS : 25
+Max bits to be turned on by a SAS : 5
+
+DFA memory :      29187  
+Link table memory : 237
+Char table memory : 1728
+
+
+********************************l7_1.re*******************************************************
+HFA : 
+No of NFA states         : 672
+No of states in head-dfa : 1814
+No of states in tail-dfa : 191
+No of tails : 6
+Border size : 10
+tail-nfa size : 183
+
+Head memory(in bytes) : 484280  
+Tail memory : 40854
+
+Our implementation :
+No of states in dfa : 2917
+No of NFA states :    659
+
+No of SAS : 7
+No of FAS : 302
+Max bits to be turned on by a SAS : 3
+
+DFA memory :      641246 
+Link table memory : 1215
+Char table memory : 0
+
+
+********************************l7_3.re*******************************************************
+HFA : 
+No of NFA states         : 346
+No of states in head-dfa : 554
+No of states in tail-dfa : 64
+No of tails : 4
+Border size : 26
+tail-nfa size : 58
+
+Head memory(in bytes) : 303618  
+Tail memory : 15139
+
+Our implementation :
+No of states in dfa : 947
+No of NFA states :    347
+
+No of SAS : 5
+No of FAS : 71
+Max bits to be turned on by a SAS : 1
+
+DFA memory :      519032 
+Link table memory : 228
+Char table memory : 0
+
+*****************************************************************************************************

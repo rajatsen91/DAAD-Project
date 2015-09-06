@@ -1,0 +1,324 @@
+<meta name=(\"|')generator(\"|') 
+XOOPS
+<meta name=(\"|')generator(\"|') XOOPS
+((var pma_absolute_uri = '|PMA_sendHeaderLocation\()|<title>phpMyAdmin<\/title>)
+(<title>phpPgAdmin<\/title>|<span class=(\"|')appname(\"|')>phpPgAdmin)
+<!\-\- JoomlaWorks \"K2\"
+<meta name=(\"|')generator(\"|') 
+Joomla
+<meta name=(\"|')generator(\"|') Joomla
+<!-- cPanel
+<img
+moodlelogo
+<imgmoodlelogo
+var moodleConfigFn = function\(me\)
+<!-- header_eof \/\/-->
+<script
+ src=(\"|')
+common\.js\?plesk
+<meta name=(\"|')generator(\"|') 
+Plone
+<meta name=(\"|')generator(\"|') Plone
+<meta name=(\"|')description(\"|')Redmine(\"|')
+Powered by <a href=(\"|')
+Redmine
+Powered by <a href=(\"|')Redmine
+<a id=(\"|')tracpowered
+<link
+ href=
+fileadmin
+<meta name=(\"|')generator(\"|') 
+TYPO3
+<meta name=(\"|')generator(\"|') TYPO3
+<script
+ src=
+fileadmin
+(jQuery\.extend\(Drupal\.settings, \{|Drupal\.extend\(\{ settings: \{)
+<link
+sites\/(default|all)\/themes\/
+<linksites\/(default|all)\/themes\/
+<script 
+drupal\.js
+<script drupal\.js
+<style
+sites\/(default|all)\/(themes|modules)\/
+<stylesites\/(default|all)\/(themes|modules)\/
+Drupal\.extend\(\{ settings: \{
+^\x10here=
+^[ !-~]+\x0d\x0a$
+^\x06\xec\x01
+^\x1b\xd7\x3b\x48[\x01\x02]\x01?\x01
+rtsp/1.0 200 ok
+^(((((invite|register)|cancel)|message)|subscribe)|notify) sip[\x09-\x0d -~]*sip/[0-2]\.[0-9]
+\xffsmb[\x72\x25]
+^220[\x09-\x0d -~]* (e?smtp|simple mail)
+^ssh-[12]\.[0-9]
+^\xf4\xbe\x03
+teamspeak
+^\xff[\xfb-\xfe].\xff[\xfb-\xfe].\xff[\xfb-\xfe]
+(\x03\x9a\x89\x22\x31\x31\x31\.\x30\x30\x20\x42\x65\x74\x61\x20|\xe2\x3c\x69\x1e\x1c\xe9)
+^(\x01|\x02)[ -~]*((netascii|octet)|mail)
+^(GET /docookie\.php\?uname=|\xfd\xfd\xfd\xfd\x30\x30\x30\x30\x30)
+TOR1
+<identity>
+^(((longaccoun|qsver2auth)|\x35[57]\x30)|\+\x10\*)
+^[\x01\x02][\x01- ]\x06
+c\x82sc
+^((\$mynick |\$lock )|\$key )
+^\xff\xffchallenge
+^([a-z][a-z0-9\-_]+|login: [\x09-\x0d -~]* name: [\x09-\x0d -~]* Directory:)
+^\x01[\x08\x09][\x03\x04]
+<stream:stream[\x09-\x0d ][ -~]*[\x09-\x0d ]xmlns=['"]jabber
+membername
+session
+player
+^\xff\xff\xff\xffgetstatus\x0a
+^(ver [ -~]*msnftp\x0d\x0aver msnftp\x0d\x0ausr|method msnmsgr:)
+^\x01\x01\x05\x0a
+user-agent:aim/
+^ajprot\x0d\x0a
+(YCLC_E|CYEL)
+^\x01\x11\x10\|\xf8\x02\x10\x40\x06
+^((((((\x13bittorrent protocol|azver\x01$)|get /scrape\?info_hash=get /announce\?info_hash=)|get /client/bitcomet/)|GET /data\?fid=)|d1:ad2:id20:)|\x08'7P\)[RP])
+^CTPv1\.[123] Kamusta
+\x0d\x0a$
+\x02[0-4][0-9]:[0-9]+
+\x03$
+^\x01\xf4\x01\xf4
+\x32\x26\x85\x92\x58
+^\xff\xff\xff\xff
+cstrikeCounter-Strike
+^BEGIN ((AUTH|VERIFICATION)|GSSAPI) REQUEST\x0a
+^\xff\xff\xff\xff
+dodDay of Defeat
+^(nq|st)$
+^(\+ok |-err )
+^\xff\xff\xff\xffget(info|challenge)
+^\x80\x0c\x01quake\x03
+^\x01\x01(\x08\x08|\x1b\x1b)$
+^220[\x09-\x0d -~]*ftp
+^gkrellm [23].[0-9].[0-9]\x0a$
+gnuclear connect/[\x09-\x0d -~]*user-agent: gnucleus [\x09-\x0d -~]*lan:
+(((<peerplat>|^get /getfilebyhash\.cgi\?)|^get /queue_register\.cgi\?)|^get /getupdowninfo\.cgi\?)
+^[\x04\x05]\x0c.i\x01
+^\xff\xff\xff\xff
+hl2mpDeathmatch
+^(\* ok|a[0-9]+ noop)
+ipp://
+^(Public|AES)Key: [0-9a-f]*\x0aEnd(Public|AES)Key\x0a$
+((\x01\x10\x01|\)\x10\x01\x01)|0\x10\x01)
+^dmdt
+\x01
+((""|\x11\x11)|uu)
+^tncp
+33
+^(20[01][\x09-\x0d -~]*AUTHINFO USER|20[01][\x09-\x0d -~]*news)
+^CSeq\x3A
+[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF]
+^CSeq\x3A[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF]
+^Authorization\x3A
+response=[\x00-\x09\x0B\x0C\x0E-\x7F]*[\x80-\xFF]
+^Authorization\x3Aresponse=[\x00-\x09\x0B\x0C\x0E-\x7F]*[\x80-\xFF]
+^Via\x3A
+[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF]
+^Via\x3A[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF]
+^From\x3A
+[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF]
+^From\x3A[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF]
+^Contact\x3A
+[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF]
+^Contact\x3A[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF]
+^Expires\x3A
+[\x01-\x08\x0B\x0C\x0E-\x1F\x2D\x80-\xFF]
+^Expires\x3A[\x01-\x08\x0B\x0C\x0E-\x1F\x2D\x80-\xFF]
+^Max-Forwards\x3A
+[\x01-\x08\x0B\x0C\x0E-\x1F\x2D\x80-\xFF]
+^Max-Forwards\x3A[\x01-\x08\x0B\x0C\x0E-\x1F\x2D\x80-\xFF]
+^Call-ID\x3A
+[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF]
+^Call-ID\x3A[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF]
+^To\x3A
+[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF]
+^To\x3A[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF]
+^Host\x3A
+(up\d+|adserv)
+^Host\x3A(up\d+|adserv)
+^Connected\s+to\s+
+\x28\d+\.\d+\.\d+\.\d+\x29
+^Subject\x3A
+2\x2E41
+^R_Server\s+version\x3A\d+\x2E\d+
+R\d+\x2E\d+
+^(((FROM|3A)|3A)|\s+there\s+is\s+a\s+HTTPRAT\s+waiting\s+4\s+u\s+on)
+^(3A|\s+there\s+is\s+a\s+HTTPRAT\s+waiting\s+4\s+u\s+on)
+^\s+HTTP_RAT_
+SUBJECT
+^\s+there\s+is\s+a\s+HTTPRAT\s+waiting\s+4\s+u\s+on
+^We\s+got\s+this\s+GREAT\s+Daemon
+Fictional\s+Daemon
+We\s+got\s+this\s+GREAT\s+Daemon
+Fictional\s+Daemon
+\x3Cchat\x3E
+\x3C\x2Fchat\x3E
+^DmInf\x5E
+\d+\x2E\d+\x2E\d+\x2E\d+\x5E
+JBIG2Decode
+stream((\x0d\x0a|\x0a)|\x0d)
+[\x00\x01]\x00\x09\x00
+\xff\xff\xff[\xff\xf7][\x36\x37]\x00
+^User-Agent\x3A
+onload=
+^User-Agent\x3A
+<script
+filename=
+\x2eaom[\x22\x27\s]
+^Connected\s+to\s+
+\x28\d+\.\d+\.\d+\.\d+\x29
+^R_Server\s+version\x3A\d+\x2E\d+
+R\d+\x2E\d+
+^(((FROM|3A)|3A)|\s+there\s+is\s+a\s+HTTPRAT\s+waiting\s+4\s+u\s+on)
+^(3A|\s+there\s+is\s+a\s+HTTPRAT\s+waiting\s+4\s+u\s+on)
+^\s+HTTP_RAT_
+SUBJECT
+^\s+there\s+is\s+a\s+HTTPRAT\s+waiting\s+4\s+u\s+on
+^KEY=
+\s+Nickname=
+User-Agent\x3a
+terServer
+^Host\x3a
+www\x2Evisit\x2Dtracker\x2Ebiz
+^Host\x3a
+leacherz\x2enet
+^Referer\x3a
+http\x3A\x2F\x2Fwww\x2Evisit\x2Dtracker\x2Ebiz\x2F\x3FVFJDSz0
+User-Agent\x3a
+terServer
+^User-Agent\x3a
+ZOMBIES\x5fHTTP\x5fGET
+^User-Agent\x3a
+HTTPRequest
+\x26r0\x3d\d*[^\x26\s\d]
+^X-Mailer\x3A
+zhangpo
+^SITE\s+(((MKDIR|RMDIR)|SYMLINK)|UTIME)
+\x2F\x2E\x2E\x2F
+^RETR
+shadow$
+^Call-ID\x3a\s+
+\x3B\x2C
+wp-includes\x2Ftheme\x2Ephp\x3F
+iz=
+wp-includes\x2Ffeed\x2Ephp\x3F
+ix=
+setRequestHeader
+chunked
+document\x2eall\x28
+\x29\x2esetCapture\x28
+Transfer-Encoding\x3a\s*chunked
+\n\r?\n
+SYS.LT.FINDRICSET\(
+\'\'\|\|
+\x2Fadvanced1\.php\?
+pluginpath\x5B0\x5D=(https?|ftps?)
+\x2F(conf|hslist)\.php\?
+subdir=(https?|ftps?)
+\x2Fstats.php\x3F
+art\x3Dhttp\x3A\x2F
+\x2Fadmin.php\x3F
+art\x3Dhttp\x3A\x2F
+\x2Fmodes.php\x3F
+art\x3Dhttp\x3A\x2F
+Language=(https?|ftps?)
+\x2F(inc2?|index).php?
+url_index=(https?|ftps?)
+livestock_id=
+([\x22\x27]|%2[27])
+5FDC81917DE08A41A6AC(E9B8ECA1EE.8|.98ECB1EEA8E)
+<tree 
+tree\?!children
+<treechildren
+<treechildren
+^From\x3A
+Amitis\s+1\x2E3
+Subject\x3A
+Server\s+information
+^from\x3A
+cyber@yahoo\x2Ecom
+subject\x3A
+notification\d+\x2E\d+\x2E\d+\x2E\d+
+ldap\x3A\x2F\x2F
+(%3f|\x3F)
+(%3f|\x3F)
+(%3f|\x3F)
+(%3f|\x3F)
+^\x3c\x41\x20
+\x3b\x5c\x5c
+\x5cSV\x24\x5c\x3e\x3c
+\x2Ffriendship\x2Femail_thank_you\?
+nick_name=CIA-Test
+friend_nickname=CIA-Notify-Tezt
+^X-Mailer\x3a
+JMail
+by
+Dimac
+^X-Mailer\x3a
+PC
+Black
+Box
+^Subject\x3a
+Activity
+Keylogger
+Logs
+^Referer\x3a
+www\x2eurlblaze\x2enet
+Host\x3A
+www\x2Epeer2mail\x2Ecom
+^From\x3a
+dialup\x5fvpn\x40hermangroup\x2Eorg
+Subject\x3a
+dialupvpn\x5fpwd
+name\x3d
+\x22reaction\x2Etxt\x22
+^Server\x3a
+Root
+kit
+Scaner
+^User-Agent\x3A
+snprtz\x7Cdialno
+Host\x3A
+linkautomatici\x2Ecom
+^User-Agent\x3A
+xpsp2-\d+
+Host\x3A
+lifeisfine\x2Eorg
+^Subject\x3a
+Report
+from
+ChildWebGuardian
+^SSKC
+v2\x2E0
+Startup
+at
+<title>
+(&lt|<)
+expression\x28
+<\/title>
+<EMBED
+PLUGINSPAGE\s*\=
+javascript
+\x2Fpost.php3?
+topic_id=
+union
+select
+\x2Fpost.php3?
+root=
+union
+select
+\x2Fpost.php3?
+topic_id=
+union
+select
+\x2Fpost.php3?
+root=
+union
+select

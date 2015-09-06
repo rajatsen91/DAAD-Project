@@ -1,0 +1,182 @@
+void HybridFA::counting_tails()
+{
+	nfa_set *tmpset = new nfa_set();
+	NFA *nfadel,*nfatmp,*nfar;
+	int n,flag,f,cm=0;
+	symbol_t c;
+	int_set *chars=new int_set(CSIZE);
+	pair_set *tx=new pair_set();
+	for(border_it it=border->begin();it!=border->end();++it)
+	{
+		if(!sborder->member(it->first))
+		continue;
+		tmpset = it->second;
+		FOREACH_SET(tmpset,it1)
+		{
+			n=0;
+			f=0;
+			cm=0;
+			nfar=(*it1);
+				while(nfar->is_counting())
+				{
+					
+					
+					
+						printf("\ngot inside %d ",nfar->get_id());
+						n++;
+						flag=0;
+						for(c=0;c<256;c++)
+						{
+							if(nfar->get_transitions(c)->size()>1)
+							{
+								flag=1;
+								break;
+							}
+						}
+						if(nfar->get_id() == 4)
+						printf("\nflag = %d ",flag);
+						if(flag==0)
+						{
+							printf("\nwhy %d",nfar->get_id());
+							printf("\n Check on %d ",nfar->get_id());
+							nfatmp = *(nfar->get_transitions(0)->begin());
+							printf("nfatmp = %d " ,nfatmp->get_id());
+							if(!nfatmp->is_counting())
+							{
+								printf("\ntest1");
+								tx=nfatmp->get_transitions();
+								FOREACH_PAIRSET(tx,it2) if ((*it2)->second==nfatmp) chars->insert((*it2)->first);
+								if(chars->size() == CSIZE)
+								{
+									nfatmp->count_max = -1;
+									nfatmp->counting = true;
+									nfatmp->count_mark=1;
+									if(cm!=0)
+									nfatmp->count_min = cm;
+									nfadel = nfar;
+									nfar = nfatmp;
+									delete nfadel;
+								}
+								else
+								{
+									printf("\ntest2");
+									nfatmp->count_max = n-1;
+									if(cm!=0)
+									nfatmp->count_min = cm;
+									nfatmp->counting=true;
+									nfatmp->count_mark=1;
+									nfadel = nfar;
+									nfar = nfatmp;
+									delete nfadel;
+								}
+								break;
+							}
+							else
+							{
+								printf("\ntest3");
+								nfatmp->count_mark=1;
+								nfadel = nfar;
+								nfar = nfatmp;
+								printf("\n%d",nfar->get_id());
+								delete nfadel;
+							}
+						}
+						else
+						{
+							for(c=0;c<256;c++)
+							{
+								if(nfar->get_transitions(c)->size()==1)
+								break;
+							}
+							nfatmp = *(nfar->get_transitions(c)->begin());
+							if(!nfatmp->is_counting())
+							{
+										
+								if(f==0)
+								{
+									tx=nfatmp->get_transitions();
+									FOREACH_PAIRSET(tx,it2) if ((*it2)->second==nfatmp) chars->insert((*it2)->first);
+									if(chars->size() == CSIZE)
+									{
+										printf("\ntest4");
+										nfatmp->count_max = -1;
+										nfatmp->count_min = n-1;
+										nfatmp->counting = true;
+										nfatmp->count_mark=1;
+										nfadel = nfar;
+										nfar = nfatmp;
+										delete nfadel;
+									}
+									else
+									{
+										printf("\ntest5");
+										nfatmp->count_max = n-1;
+										nfatmp->count_min = n-1;
+										nfatmp->counting=true;
+										nfatmp->count_mark=1;
+										nfadel = nfar;
+										nfar = nfatmp;
+										delete nfadel;
+									}
+								}
+								else
+								{
+									tx=nfatmp->get_transitions();
+									FOREACH_PAIRSET(tx,it2) if ((*it2)->second==nfatmp) chars->insert((*it2)->first);
+									if(chars->size() == CSIZE)
+									{
+										printf("\ntest6");
+										nfatmp->count_max = -1;
+										nfatmp->counting = true;
+										if(cm!=0)
+										nfatmp->count_min = cm;
+										nfatmp->count_mark=1;
+										nfadel = nfar;
+										nfar = nfatmp;
+										delete nfadel;
+									}
+									else
+									{
+										printf("\ntest7");
+										nfatmp->count_max = n-1;
+										if(cm!=0)
+										nfatmp->count_min = cm;
+										nfatmp->counting=true;
+										nfatmp->count_mark=1;
+										nfadel = nfar;
+										nfar = nfatmp;
+										delete nfadel;
+									}
+								}
+								break;
+							}
+							else
+							{
+								if(f==0)
+								{
+									printf("\ntest8");
+									nfatmp->count_mark=1;
+									cm=n-1;
+									f=1;
+									nfadel = nfar;
+									nfar = nfatmp;
+									delete nfadel;	
+								}
+								else
+								{
+									printf("\ntest9");
+									nfatmp->count_mark=1;
+									nfadel = nfar;
+									nfar = nfatmp;
+									delete nfadel;
+								}
+							}
+						}
+					
+				}
+			
+		}
+	}
+	delete chars;
+	delete tx;
+}

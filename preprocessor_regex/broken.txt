@@ -1,0 +1,25 @@
+Host\x3A.*select.*\s+Nickname=.*select.*<a id=(\"|')tracpowered
+wp-includes\x2Ffeed\x2Ephp\x3F.*<identity>.*\s+Nickname=.*<link.*TOR1
+v2\x2E0.*\x2F(inc2?|index).php?.*Box.*(\x03\x9a\x89\x22\x31\x31\x31\.\x30\x30\x20\x42\x65\x74\x61\x20|\xe2\x3c\x69\x1e\x1c\xe9).*[\x01-\x08\x0B\x0C\x0E-\x1F\x80-\xFF]
+xpsp2-\d+.*iz=.*\x2Fpost.php3?.*(up\d+|adserv).*\x2Fadmin.php\x3F
+SYS.LT.FINDRICSET\(.*art\x3Dhttp\x3A\x2F.*<script.*\x2F(inc2?|index).php?.*terServer
+\x2Ffriendship\x2Femail_thank_you\?.*Subject\x3a.*ldap\x3A\x2F\x2F.*xpsp2-\d+.*terServer
+\'\'\|\|.*PC.*\x28\d+\.\d+\.\d+\.\d+\x29.*\x2F(conf|hslist)\.php\?.*zhangpo
+dialupvpn\x5fpwd.*\xff\xff\xff[\xff\xf7][\x36\x37]\x00.*JMail.*Box.*union
+<stream:stream[\x09-\x0d ][ -~]*[\x09-\x0d ]xmlns=['"]jabber.*player.*\x3C\x2Fchat\x3E.*33.*union
+Powered by <a href=(\"|')Redmine.*<meta name=(\"|')generator(\"|') Plone.*wp-includes\x2Ffeed\x2Ephp\x3F.*lifeisfine\x2Eorg.*<link
+R\d+\x2E\d+.*gnuclear connect/[\x09-\x0d -~]*user-agent: gnucleus [\x09-\x0d -~]*lan:.*R\d+\x2E\d+.*Report.*player
+\x3C\x2Fchat\x3E.*Language=(https?|ftps?).*\x2Fpost.php3?.*<script .*\x02[0-4][0-9]:[0-9]+
+at.*sites\/(default|all)\/(themes|modules)\/.*Subject\x3a.*33.*Plone
+Host\x3A.*(%3f|\x3F).*select.*javascript.*SYS.LT.FINDRICSET\(
+<a id=(\"|')tracpowered.*<stylesites\/(default|all)\/(themes|modules)\/.*tree\?!children.*SYS.LT.FINDRICSET\(.*R\d+\x2E\d+
+subdir=(https?|ftps?).*PLUGINSPAGE\s*\=.*(%3f|\x3F).*TOR1.*chunked
+<treechildren.*\x3B\x2C.*<imgmoodlelogo.*Report.*\x2Fpost.php3?
+expression\x28.*snprtz\x7Cdialno.* href=.*nick_name=CIA-Test.*lifeisfine\x2Eorg
+(((<peerplat>|^get /getfilebyhash\.cgi\?)|^get /queue_register\.cgi\?)|^get /getupdowninfo\.cgi\?).*\x2Fpost.php3?.*[\x01-\x08\x0B\x0C\x0E-\x1F\x2D\x80-\xFF].*Keylogger.*select
+<a id=(\"|')tracpowered.*<meta name=(\"|')description(\"|')Redmine(\"|').*moodlelogo.*<treechildren.*notification\d+\x2E\d+\x2E\d+\x2E\d+
+(%3f|\x3F).*<treechildren.*leacherz\x2enet.*select.*(up\d+|adserv)
+\x2F(conf|hslist)\.php\?.*\x02[0-4][0-9]:[0-9]+.*\xffsmb[\x72\x25].*nick_name=CIA-Test.*terServer
+onload=.*Keylogger.*XOOPS.*[\x01-\x08\x0B\x0C\x0E-\x1F\x2D\x80-\xFF].*PC
+<link.*art\x3Dhttp\x3A\x2F.*<title>.*\x2Ffriendship\x2Femail_thank_you\?.*\n\r?\n
+fileadmin.*\x2Fstats.php\x3F.*terServer.*xpsp2-\d+.*<meta name=(\"|')description(\"|')Redmine(\"|')

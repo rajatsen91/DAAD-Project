@@ -1,0 +1,33 @@
+digraph "DFAC" {
+ 0 [shape=circle,label="0-0"];
+ 1 [shape=circle,label="1-1"];
+ 2 [shape=circle,label="2-2"];
+ 3 [shape=circle,label="3-3"];
+ 4 [shape=circle,label="4-4"];
+ 5 [shape=circle,label="5-5"];
+ 6 [shape=circle,label="6-6"];
+ 7 [shape=circle,label="7-7"];
+ 8 [shape=circle,label="8-8"];
+ 9 [shape=circle,label="9-9"];
+ 10 [shape=doublecircle,label="10-10/62"];
+0 -> 1 [label="60"];
+1 -> 1 [label="60"];
+1 -> 2 [label="i"];
+2 -> 1 [label="60"];
+2 -> 3 [label="d"];
+3 -> 1 [label="60"];
+3 -> 4 [label="e"];
+4 -> 1 [label="60"];
+4 -> 5 [label="n"];
+5 -> 1 [label="60"];
+5 -> 6 [label="t"];
+6 -> 1 [label="60"];
+6 -> 7 [label="i"];
+7 -> 1 [label="60"];
+7 -> 8 [label="t"];
+8 -> 1 [label="60"];
+8 -> 9 [label="y"];
+9 -> 1 [label="60"];
+9 -> 10 [label="62"];
+10 -> 1 [label="60"];
+}

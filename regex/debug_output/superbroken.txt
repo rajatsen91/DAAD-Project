@@ -1,0 +1,78 @@
+url\x3d
+ href=
+common\.js\?plesk
+<tree 
+www\x252efindthewebsiteyouneed\x252ecom
+sites\/(default|all)\/(themes|modules)\/
+PLUGINSPAGE\s*\=
+User-Agent\x3A
+\/forum\.php
+\/oaboard
+sites\/(default|all)\/themes\/
+lifeisfine\x2Eorg
+Box
+href\s*\=
+mail=
+index\.php\?
+Box
+<meta name=(\"|')generator(\"|') XOOPS
+<\s*script
+\x3C\x3F
+\x2Ffriendship\x2Femail_thank_you\?
+sites\/(default|all)\/themes\/
+<script 
+name\x3d
+www\x252efindthewebsiteyouneed\x252ecom
+ href=
+var moodleConfigFn = function\(me\)
+name\x3d
+Activity
+20\d\d
+<!\-\- JoomlaWorks \"K2\"
+(%3f|\x3F)
+from
+<!-- cPanel
+script
+lifeisfine\x2Eorg
+Keylogger
+<linksites\/(default|all)\/themes\/
+<!-- header_eof \/\/-->
+Dimac
+linkautomatici\x2Ecom
+Drupal\.extend\(\{ settings: \{
+<a id=(\"|')tracpowered
+<meta name=(\"|')description(\"|')Redmine(\"|')
+ed2k
+(%3f|\x3F)
+\/oaboard
+<tree 
+<\s*script
+Host\x3A
+JMail
+<title>
+Logs
+<\/title>
+<meta name=(\"|')generator(\"|') 
+(%3f|\x3F)
+Box
+Host\x3A
+\x25
+<script 
+<EMBED
+cyber@yahoo\x2Ecom
+<meta name=(\"|')generator(\"|') XOOPS
+Drupal\.extend\(\{ settings: \{
+<EMBED
+<link
+<meta name=(\"|')generator(\"|') Joomla
+from
+Joomla
+\x22reaction\x2Etxt\x22
+keyword\x3d
+at
+<\/title>
+XOOPS
+<\/title>
+keyword\x3d
+JMail
+<meta name=(\"|')generator(\"|')

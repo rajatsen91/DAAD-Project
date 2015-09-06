@@ -1,0 +1,11 @@
+The preprocessor parser for OR seperation added in preprocessor folder.
+--This line, and those below, will be ignored--
+
+M    src/nfa.c
+M    src/nfa.h
+M    src/rajat
+M    src/example.dot
+M    src/main.c
+M    input.re
+M    debug_output/nfa.txt
+M    debug_output/NFAC_0_0.txt
