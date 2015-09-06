@@ -2,6 +2,8 @@
 This code if for or-seperation, counting the number of .* like conditions per line, make the label file and the label2d file
 */
 
+// Author : Rajat Sen
+
 #include<stdio.h>
 #include<iostream>
 #include<fstream>
